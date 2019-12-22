@@ -4,7 +4,7 @@ import numpy as np
 a=[]
 b=[]
 c=[]
-t=100000000
+t=1000000000
 for i in range(t):
 	x=np.random.rand()
 	y=np.random.rand()
